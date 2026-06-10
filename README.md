@@ -12,7 +12,7 @@ Ders sürecinde yazılan kodlara ve örneklere aşağıdaki bağlantılardan do�
 
 * [Beginner.py](./Beginner.py) – Python'a giriş, temel veri tipleri ve değişken mantığı.
 * [Formatting Methods.py](./Formatting%20Methods.py) – Metin biçimlendirme, string metotları ve çıktı düzenleme çalışmaları.
-* [Samples.py](./Samples.py) / [Samples_2.py](./Samples_2.py) / [Samples_3.py](./Samples_3.py) – Döngüler, karar yapıları, listeler ve fonksiyonlar gibi temel konuların pekiştirildiği pratik ve uygulama örnekleri.
+* [Samples.py](./Samples.py) / [Samples_2.py](./Samples_2.py) / [Samples_3.py](./Samples_3.py) / [Class_Samples.py](./Class_Samples.py) – Döngüler, karar yapıları, listeler ve fonksiyonlar gibi temel konuların pekiştirildiği pratik ve uygulama örnekleri.
 * [OOP_Ders_Notlari.py](./OOP_Ders_Notlari.py) – Sınıf (`class`) kavramı, nesne üretimi ve `__init__` yapısı gibi Nesne Yönelimli Programlamanın temel teorik notları.
 * [Samples_oop.py](./Samples_oop.py) – Nesne yönelimli programlama mantığıyla yazılmış ilk pratikler ve metot çalışmaları.
 * [Bank_Sample.py](./Bank_Sample.py) – OOP mantığını (Sınıf, nesne ve metot kullanımını) pekiştirmek için geliştirilmiş örnek bir bankamatik/hesap uygulaması.

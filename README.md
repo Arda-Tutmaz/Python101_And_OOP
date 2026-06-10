@@ -6,7 +6,7 @@ Süreci tamamen kendi dilimizde takip edebilmek ve mantığı daha rahat kavraya
 
 ---
 
-## 💻 Proje İçeriği ve Dosya Yapısı
+## Proje İçeriği ve Dosya Yapısı
 
 Ders sürecinde yazılan kodlara ve örneklere aşağıdaki bağlantılardan doğrudan ulaşabilirsiniz:
 
@@ -21,7 +21,7 @@ Ders sürecinde yazılan kodlara ve örneklere aşağıdaki bağlantılardan do�
 
 ---
 
-## 🚀 Nasıl Çalıştırılır?
+## Nasıl Çalıştırılır?
 
 Bilgisayarınızda **Python 3** kuruluysa, depoyu klonlayıp herhangi bir Python dosyasını doğrudan çalıştırabilirsiniz:
 

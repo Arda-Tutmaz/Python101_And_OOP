@@ -6,24 +6,26 @@ Süreci tamamen kendi dilimizde takip edebilmek ve mantığı daha rahat kavraya
 
 ---
 
-## 💻 Ders Akışı ve İçerik
+## 💻 Proje İçeriği ve Dosya Yapısı
 
-Kodlar, Python'ın en temel yapı taşlarından başlayarak birbirini besleyen bir akışla ilerliyor:
+Ders sürecinde yazılan kodlara ve örneklere aşağıdaki bağlantılardan doğrudan ulaşabilirsiniz:
 
-* **Temel Yapı ve Mantıksal Denetimler:** Değişkenlerin tanımlanması, veri tiplerinin birbiriyle ilişkisi ve programın karar vermesini sağlayan şart blokları (`if-else`).
-* **Döngüler ve Veri Yönetimi:** Tekrar eden işlemleri çözen döngü yapıları ile verileri bir arada tutmamızı sağlayan listeler, sözlükler ve demetler gibi temel veri yapıları.
-* **Fonksiyonlar ve Yapısal Kodlama:** Kodun tekrar etmesini önleyen, işleri küçük parçalara bölen fonksiyon tasarımları ve hata yönetimi blokları.
-* **OOP Eşiği:** Sınıf (`class`) mantığına, nesne üretimine ve `__init__` gibi yapıcı metotlara dokunarak projenin sonlandığı, Nesne Yönelimli Programlamanın giriş kapısı.
+* [Beginner.py](./Beginner.py) – Python'a giriş, temel veri tipleri ve değişken mantığı.
+* [Formatting Methods.py](./Formatting%20Methods.py) – Metin biçimlendirme, string metotları ve çıktı düzenleme çalışmaları.
+* [Samples.py](./Samples.py) / [Samples_2.py](./Samples_2.py) / [Samples_3.py](./Samples_3.py) – Döngüler, karar yapıları, listeler ve fonksiyonlar gibi temel konuların pekiştirildiği pratik ve uygulama örnekleri.
+* [OOP_Ders_Notlari.py](./OOP_Ders_Notlari.py) – Sınıf (`class`) kavramı, nesne üretimi ve `__init__` yapısı gibi Nesne Yönelimli Programlamanın temel teorik notları.
+* [Samples_oop.py](./Samples_oop.py) – Nesne yönelimli programlama mantığıyla yazılmış ilk pratikler ve metot çalışmaları.
+* [Bank_Sample.py](./Bank_Sample.py) – OOP mantığını (Sınıf, nesne ve metot kullanımını) pekiştirmek için geliştirilmiş örnek bir bankamatik/hesap uygulaması.
 
-Bu depodaki dosyalar, kesin sınırlarla ayrılmış teorik konulardan ziyade, derste pratik yaptıkça evrilen ve büyüyen bir kod geçmişini temsil eder.
+*Not: Kodlar kesin sınırlarla ayrılmış teorik konulardan ziyade, derste pratik yaptıkça evrilen ve büyüyen bir kod geçmişini temsil eder.*
 
 ---
 
 ## 🚀 Nasıl Çalıştırılır?
 
-Bilgisayarınızda **Python 3.x** kuruluysa, depoyu klonlayıp herhangi bir Python dosyasını doğrudan çalıştırabilirsiniz:
+Bilgisayarınızda **Python 3** kuruluysa, depoyu klonlayıp herhangi bir Python dosyasını doğrudan çalıştırabilirsiniz:
 
 ```bash
 git clone [https://github.com/kullanici_adi/repo_adi.git](https://github.com/kullanici_adi/repo_adi.git)
 cd repo_adi
-python dosya_adi.py
+python Beginner.py
